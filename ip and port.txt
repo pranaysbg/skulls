@@ -1,0 +1,5 @@
+{
+	"ip":"skullyys.aternos.me",
+	"port": "51747",
+	"name": "Skull"
+}
